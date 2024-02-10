@@ -5,7 +5,7 @@ export const nav = [
   },
   {
     title: 'About',
-    slug: '/company/about',
+    slug: '/about',
   },
   {
     title: 'Blog',
@@ -13,6 +13,6 @@ export const nav = [
   },
   {
     title: 'Contact',
-    slug: '/company/contact',
+    slug: '/contact',
   },
 ];
